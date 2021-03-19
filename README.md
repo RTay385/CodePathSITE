@@ -39,10 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:\
-![http://g.recordit.co/uTlfyKWGMP.gif]\
-![http://g.recordit.co/4FPYfpTw8R.gif]\
-![http://g.recordit.co/RUfGG4ROHP.gif]
-
+![](https://i.imgur.com/IThUArt.gif)
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
