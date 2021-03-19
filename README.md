@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:\
 ![http://g.recordit.co/uTlfyKWGMP.gif]\
-![http://g.recordit.co/9C33Xq7OV8.gif]\
+![http://g.recordit.co/4FPYfpTw8R.gif]\
 ![http://g.recordit.co/RUfGG4ROHP.gif]
 
 ## Reflection Questions
